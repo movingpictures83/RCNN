@@ -1,0 +1,2 @@
+Prefix plugins/RCNN/example/
+Plugin RCNN inputfile Merged-update_hourly.csv outputfile .
